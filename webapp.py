@@ -1,4 +1,5 @@
 import flask
+import psycopg2cffi
 
 app = flask.Flask(__name__)
 
